@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WaterGirl_0: 5323402734346229922
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

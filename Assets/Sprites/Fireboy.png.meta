@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fireboy_0: 4412865260311482581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
